@@ -1,0 +1,20 @@
+nav {
+  background-color: rgb(20, 199, 92);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: wavy;
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 30px;
+}
+
+.nav-item {
+  font-size: 20px;
+}
